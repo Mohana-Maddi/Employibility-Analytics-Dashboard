@@ -2,7 +2,7 @@
 *A data-driven approach to hiring Full Stack Developers in California*  
 
 
-🚀 Introduction  
+## 🚀 Introduction  
 
 Hiring the right talent can be challenging, especially in competitive fields like full-stack development. The **Employability Analytics Dashboard** is designed to make this process smoother and more data-driven.  
 
