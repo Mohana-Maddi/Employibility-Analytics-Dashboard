@@ -1,4 +1,6 @@
 # Employibility-Analytics-Dashboard
+*A data-driven approach to hiring Full Stack Developers in California*  
+
 
 🚀 Introduction  
 
