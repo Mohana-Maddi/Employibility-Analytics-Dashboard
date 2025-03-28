@@ -1,51 +1,55 @@
-# Employibility-Analytics-Dashboard
-*A data-driven approach to hiring Full Stack Developers in California*  
+Employibility-Analytics-Dashboard
+A data-driven approach to hiring Full Stack Developers in California
 
+Introduction:
 
-## 🚀 Introduction  
+The Employability Analytics Dashboard is a decision-support application developed to assist hiring teams in making informed recruitment and workforce management decisions. Created as part of a Master’s Research Project at Saint Louis University, this dashboard specifically focuses on streamlining the hiring process for Full Stack Developer roles in the California region.
 
-Hiring the right talent can be challenging, especially in competitive fields like full-stack development. The **Employability Analytics Dashboard** is designed to make this process smoother and more data-driven.  
+Built using Power BI, the dashboard enables a data-driven hiring approach by providing clear and actionable insights into candidate qualifications, professional experience, and technical skills. It serves as a visual tool that simplifies complex data into intuitive visuals, allowing HR teams to evaluate candidates more efficiently and effectively.
 
-Developed as part of a **Master’s Research Project** at *Saint Louis University*, this dashboard helps hiring teams identify the best **Full Stack Developer** candidates in the *California* region.  
+Background of our project:
 
-Built with **Power BI**, it simplifies recruitment by transforming complex candidate data into clear, easy-to-understand visuals. From technical skills to professional experience, the dashboard provides **meaningful insights** that enable HR teams to evaluate candidates efficiently and make confident hiring decisions.  
+Traditional hiring processes often rely on manual resume screening, subjective judgments, and unstructured data — all of which can lead to inconsistent hiring decisions and longer time-to-hire cycles. These challenges highlight the need for an evidence-based recruitment model that can bring consistency, fairness, and speed to the process.
 
----
+This project addresses those challenges by introducing a visual and analytical approach to recruitment. By integrating all relevant candidate data into a centralized dashboard, the tool empowers decision-makers with:
+1. Faster access to meaningful insights  
+2. Improved alignment between job requirements and candidate profiles  
+3. Clear visibility into hiring trends by location, experience, and skills
 
-## 📚 Background  
+Visualizing hiring data effectively allows HR professionals to make well-informed decisions at a glance, rather than sorting through volumes of unstructured information.
 
-Traditional recruitment methods often involve manually reviewing resumes, relying on subjective judgments, and managing scattered, unstructured data. This can lead to **inconsistent hiring decisions** and **longer time-to-fill positions**.  
+Dataset Source:
 
-This project addresses these challenges by introducing a **visual, data-driven approach** to hiring. The dashboard centralizes all key candidate information, helping hiring teams:  
+The Employability Analytics Application uses two structured datasets created specifically for this project to simulate a real-world hiring scenario. These datasets were prepared using a combination of spreadsheet tools and synthetic data generation to represent job postings and candidate profiles for Full Stack Developer roles in California.
 
-✅ Quickly access valuable insights  
-✅ Match candidates more effectively to job requirements  
-✅ Identify hiring trends based on location, experience, and skills  
+1. Numeric_Job_Postings.xlsx
+This dataset contains structured information about job requirements and postings for full stack developer positions.  
+Key attributes include:
+- Job ID  
+- Job Title  
+- Required Skills  
+- Minimum Experience  
+- Preferred Certifications  
+- Job Location  
+- Job Type  
+- Salary Range  
+- Required Education Level  
+- Job Posting Date  
 
-By transforming raw data into **clear, actionable visuals**, HR professionals can make well-informed hiring decisions—without getting lost in endless spreadsheets and resumes.  
+2. Numeric_Candidate_Profiles.xlsx
+This dataset captures detailed profiles of job applicants including their technical and educational qualifications.  
+Key attributes include:
+- Candidate ID  
+- Name  
+- Education Level  
+- Graduation Year  
+- Technical Skills  
+- Certifications  
+- Total & Relevant Experience  
+- Interview Score  
+- Resume Match Score  
+- Preferred Location  
+- Availability to Join  
+- Current Employment Status  
 
----
-
-## 🗂️ Dataset Source  
-
-Since real hiring data wasn’t available, a **synthetic dataset** was generated using a mix of **ChatGPT, Python, and spreadsheet tools**. This dataset realistically simulates candidate profiles for **Full Stack Developer** roles across California, ensuring the analysis reflects real-world hiring scenarios.  
-
-### 📄 Key Dataset Fields (Sample of 16 Attributes):  
-- **Candidate ID** – Unique identifier for each candidate  
-- **Full Name** – Candidate’s name  
-- **Email** – Contact information  
-- **Education Level** – Highest degree attained  
-- **Graduation Year** – Year of graduation  
-- **Technical Skills** – List of programming languages and frameworks  
-- **Certifications** – Industry certifications (e.g., AWS, Scrum)  
-- **Total Experience** – Overall years of experience  
-- **Relevant Experience** – Experience specifically in full-stack development  
-- **Last Job Role** – Most recent position held  
-- **Employment Status** – Currently employed or seeking opportunities  
-- **Interview Score** – Performance rating from interviews  
-- **Resume Match Score** – How well the resume aligns with the job requirements  
-- **Availability to Join** – Notice period or immediate availability  
-- **Preferred Location** – Candidate’s desired work location  
-- **Current Location** – Where the candidate is currently based  
-
-This structured dataset provides a **realistic foundation** for analyzing hiring patterns and improving recruitment decisions.  
+Both datasets contain numeric and categorical values to support filtering, comparison, and aggregation within the Power BI dashboard.
