@@ -1,13 +1,13 @@
-Employibility-Analytics-Dashboard
+## Employibility-Analytics-Dashboard
 A data-driven approach to hiring Full Stack Developers in California
 
-Introduction:
+## Introduction:
 
 The Employability Analytics Dashboard is a decision-support application developed to assist hiring teams in making informed recruitment and workforce management decisions. Created as part of a Master’s Research Project at Saint Louis University, this dashboard specifically focuses on streamlining the hiring process for Full Stack Developer roles in the California region.
 
 Built using Power BI, the dashboard enables a data-driven hiring approach by providing clear and actionable insights into candidate qualifications, professional experience, and technical skills. It serves as a visual tool that simplifies complex data into intuitive visuals, allowing HR teams to evaluate candidates more efficiently and effectively.
 
-Background of our project:
+## Background of our project:
 
 Traditional hiring processes often rely on manual resume screening, subjective judgments, and unstructured data — all of which can lead to inconsistent hiring decisions and longer time-to-hire cycles. These challenges highlight the need for an evidence-based recruitment model that can bring consistency, fairness, and speed to the process.
 
@@ -18,7 +18,7 @@ This project addresses those challenges by introducing a visual and analytical a
 
 Visualizing hiring data effectively allows HR professionals to make well-informed decisions at a glance, rather than sorting through volumes of unstructured information.
 
-Dataset Source:
+## Dataset Source:
 
 The Employability Analytics Application uses two structured datasets created specifically for this project to simulate a real-world hiring scenario. These datasets were prepared using a combination of spreadsheet tools and synthetic data generation to represent job postings and candidate profiles for Full Stack Developer roles in California.
 
