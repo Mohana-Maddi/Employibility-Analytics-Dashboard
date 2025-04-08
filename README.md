@@ -28,7 +28,7 @@ The dashboard includes several interactive and analytical capabilities:
 - Visualize salary expectations vs. offered ranges  
 
 
-## Dataset Source:
+## Dataset Sources & Structure:
 
 The dashboard uses two custom-built datasets designed to simulate real-world hiring data. These datasets include both numerical and categorical data, supporting rich visual exploration.
 
