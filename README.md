@@ -22,21 +22,19 @@ Visualizing hiring data effectively allows HR professionals to make well-informe
 
 The dashboard uses two custom-built datasets designed to simulate real-world hiring data. These datasets include both numerical and categorical data, supporting rich visual exploration.
 
-1. Numeric_Job_Postings.xlsx
-Details open job roles for Full Stack Developers.
-Key variables include:
+| Variable                  | Type         | Description                                      |
+|--------------------------|--------------|--------------------------------------------------|
+| Job ID                   | Categorical  | Unique identifier for each job posting           |
+| Job Title                | Text         | Position title (e.g., Full Stack Developer)      |
+| Required Skills          | Categorical  | List of technical skills required                |
+| Minimum Experience       | Numerical    | Minimum years of experience                      |
+| Preferred Certifications | Categorical  | Desired certifications                           |
+| Job Location             | Categorical  | California cities or regions                     |
+| Job Type                 | Categorical  | Full-time, part-time, contract                   |
+| Salary Range             | Numerical    | Minimum and maximum salary                       |
+| Required Education Level | Categorical  | Bachelor’s, Master’s, etc.                       |
+| Job Posting Date         | Date/Time    | Posting timestamp for temporal analysis          |
 
-Variable	Type	Description
-Job ID	Categorical	Unique identifier for each job posting
-Job Title	Text	Position title (e.g., Full Stack Developer)
-Required Skills	Categorical	List of technical skills required
-Minimum Experience	Numerical	Minimum years of experience
-Preferred Certifications	Categorical	Desired certifications
-Job Location	Categorical	California cities or regions
-Job Type	Categorical	Full-time, part-time, contract
-Salary Range	Numerical	Minimum and maximum salary
-Required Education Level	Categorical	Bachelor’s, Master’s, etc.
-Job Posting Date	Date/Time	Posting timestamp for temporal analysis
 
 2. Numeric_Candidate_Profiles.xlsx
 Captures applicant data tailored to full stack roles.
