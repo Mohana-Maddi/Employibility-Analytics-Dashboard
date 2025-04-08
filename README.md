@@ -53,3 +53,37 @@ Key attributes include:
 - Current Employment Status  
 
 Both datasets contain numeric and categorical values to support filtering, comparison, and aggregation within the Power BI dashboard.
+
+## Stakeholders & Use Cases  
+
+### HR Managers & Recruiters  
+- Rank candidates for faster shortlisting  
+- Match candidate availability with project timelines  
+- Visualize alignment between job specs and applicant profiles  
+
+### Workforce Planners  
+- Identify hiring trends by region and experience  
+- Assess average experience and certifications among candidates  
+- Optimize future hiring strategies  
+
+### Institutional & Academic Researchers  
+- Study employability patterns and gaps  
+- Analyze the relationship between qualifications and job match  
+- Use the dashboard as a teaching or simulation tool  
+
+---
+
+## Visualizations  
+The dashboard uses intuitive visuals such as:  
+- Stacked bar charts for education and employment status  
+- Heatmaps for geographic insights  
+- Line graphs for job posting trends  
+- Donut charts for skills and certifications  
+- Ranking tables with slicers for deep filtering  
+
+---
+
+## Conclusion  
+This project demonstrates how a data-driven approach can streamline hiring processes and reduce recruitment inefficiencies. Although the focus is on Full Stack Developers in California, the dashboard model is flexible and can be expanded to other tech roles or regions.
+
+
