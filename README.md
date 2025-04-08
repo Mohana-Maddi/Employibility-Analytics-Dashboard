@@ -18,9 +18,23 @@ This project addresses those challenges by introducing a visual and analytical a
 
 Visualizing hiring data effectively allows HR professionals to make well-informed decisions at a glance, rather than sorting through volumes of unstructured information.
 
+## Key Functionalities  
+The dashboard includes several interactive and analytical capabilities:
+
+- Compare candidate skills with job requirements  
+- Rank candidates by resume match and interview scores  
+- Filter applicants by location, availability, and experience  
+- Identify hiring trends and skill gaps by city  
+- Visualize salary expectations vs. offered ranges  
+
+
 ## Dataset Source:
 
 The dashboard uses two custom-built datasets designed to simulate real-world hiring data. These datasets include both numerical and categorical data, supporting rich visual exploration.
+
+## 1. Numeric_Job_Postings.xlsx
+Details open job roles for Full Stack Developers.
+Key variables include:
 
 | Variable                  | Type         | Description                                      |
 |--------------------------|--------------|--------------------------------------------------|
@@ -36,7 +50,9 @@ The dashboard uses two custom-built datasets designed to simulate real-world hir
 | Job Posting Date         | Date/Time    | Posting timestamp for temporal analysis          |
 
 
-2. Numeric_Candidate_Profiles.xlsx
+## 2. Numeric_Candidate_Profiles.xlsx
+Captures applicant data tailored to full stack roles.
+Key variables include:
 
 | Variable                     | Type         | Description                                                   |
 |-----------------------------|--------------|---------------------------------------------------------------|
