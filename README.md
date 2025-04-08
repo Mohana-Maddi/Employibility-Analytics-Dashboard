@@ -20,41 +20,42 @@ Visualizing hiring data effectively allows HR professionals to make well-informe
 
 ## Dataset Source:
 
-The Employability Analytics Application uses two structured datasets created specifically for this project to simulate a real-world hiring scenario. These datasets were prepared using a combination of spreadsheet tools and synthetic data generation to represent job postings and candidate profiles for Full Stack Developer roles in California.
+The dashboard uses two custom-built datasets designed to simulate real-world hiring data. These datasets include both numerical and categorical data, supporting rich visual exploration.
 
 1. Numeric_Job_Postings.xlsx
-This dataset contains structured information about job requirements and postings for full stack developer positions.  
-Key attributes include:
-- Job ID  
-- Job Title  
-- Required Skills  
-- Minimum Experience  
-- Preferred Certifications  
-- Job Location  
-- Job Type  
-- Salary Range  
-- Required Education Level  
-- Job Posting Date  
+Details open job roles for Full Stack Developers.
+Key variables include:
+
+Variable	Type	Description
+Job ID	Categorical	Unique identifier for each job posting
+Job Title	Text	Position title (e.g., Full Stack Developer)
+Required Skills	Categorical	List of technical skills required
+Minimum Experience	Numerical	Minimum years of experience
+Preferred Certifications	Categorical	Desired certifications
+Job Location	Categorical	California cities or regions
+Job Type	Categorical	Full-time, part-time, contract
+Salary Range	Numerical	Minimum and maximum salary
+Required Education Level	Categorical	Bachelor’s, Master’s, etc.
+Job Posting Date	Date/Time	Posting timestamp for temporal analysis
 
 2. Numeric_Candidate_Profiles.xlsx
-This dataset captures detailed profiles of job applicants including their technical and educational qualifications.  
-Key attributes include:
-- Candidate ID  
-- Name  
-- Education Level  
-- Graduation Year  
-- Technical Skills  
-- Certifications  
-- Total & Relevant Experience  
-- Interview Score  
-- Resume Match Score  
-- Preferred Location  
-- Availability to Join  
-- Current Employment Status  
+Captures applicant data tailored to full stack roles.
+Key variables include:
 
-Both datasets contain numeric and categorical values to support filtering, comparison, and aggregation within the Power BI dashboard.
+Variable	Type	Description
+Candidate ID	Categorical	Unique identifier per applicant
+Name	Text	Candidate's name
+Education Level	Categorical	Highest education attained
+Graduation Year	Date/Time	Year of graduation
+Technical Skills	Categorical	Known programming languages and frameworks
+Certifications	Categorical	Relevant certifications
+Total & Relevant Experience	Numerical	Overall and role-specific experience in years
+Interview Score	Numerical	Interview performance score
+Resume Match Score	Numerical	Percentage match between resume and job posting
+Preferred Location	Categorical	Cities where candidate is willing to work
+Availability to Join	Categorical	Immediate, 2 weeks, 1 month
+Current Employment Status	Categorical	Employed, unemployed, student
 
-## Stakeholders & Use Cases  
 
 ### HR Managers & Recruiters  
 - Rank candidates for faster shortlisting  
