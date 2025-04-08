@@ -37,20 +37,21 @@ The dashboard uses two custom-built datasets designed to simulate real-world hir
 
 
 2. Numeric_Candidate_Profiles.xlsx
-| Variable                   | Type         | Description                                                   |
-|---------------------------|--------------|---------------------------------------------------------------|
-| Candidate ID              | Categorical  | Unique identifier per applicant                               |
-| Name                      | Text         | Candidate's name                                              |
-| Education Level           | Categorical  | Highest education attained                                    |
-| Graduation Year           | Date/Time    | Year of graduation                                            |
-| Technical Skills          | Categorical  | Known programming languages and frameworks                    |
-| Certifications            | Categorical  | Relevant certifications                                       |
-| Total & Relevant Experience | Numerical  | Overall and role-specific experience in years                 |
-| Interview Score           | Numerical    | Interview performance score                                   |
-| Resume Match Score        | Numerical    | Percentage match between resume and job posting               |
-| Preferred Location        | Categorical  | Cities where candidate is willing to work                     |
-| Availability to Join      | Categorical  | Immediate, 2 weeks, 1 month                                   |
-| Current Employment Status | Categorical  | Employed, unemployed, student                                 |
+
+| Variable                     | Type         | Description                                                   |
+|-----------------------------|--------------|---------------------------------------------------------------|
+| Candidate ID                | Categorical  | Unique identifier per applicant                               |
+| Name                        | Text         | Candidate's name                                              |
+| Education Level             | Categorical  | Highest education attained                                    |
+| Graduation Year             | Date/Time    | Year of graduation                                            |
+| Technical Skills            | Categorical  | Known programming languages and frameworks                    |
+| Certifications              | Categorical  | Relevant certifications                                       |
+| Total & Relevant Experience | Numerical    | Overall and role-specific experience in years                 |
+| Interview Score             | Numerical    | Interview performance score                                   |
+| Resume Match Score          | Numerical    | Percentage match between resume and job posting               |
+| Preferred Location          | Categorical  | Cities where candidate is willing to work                     |
+| Availability to Join        | Categorical  | Immediate, 2 weeks, 1 month                                   |
+| Current Employment Status   | Categorical  | Employed, unemployed, student                                 |
 
 
 ### HR Managers & Recruiters  
