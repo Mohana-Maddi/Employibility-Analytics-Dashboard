@@ -27,6 +27,7 @@ The dashboard includes several interactive and analytical capabilities:
 - Identify hiring trends and skill gaps by city  
 - Visualize salary expectations vs. offered ranges  
 
+---
 
 ## Dataset Sources & Structure:
 
@@ -69,16 +70,21 @@ Key variables include:
 | Availability to Join        | Categorical  | Immediate, 2 weeks, 1 month                                   |
 | Current Employment Status   | Categorical  | Employed, unemployed, student                                 |
 
+---
 
 ### HR Managers & Recruiters  
 - Rank candidates for faster shortlisting  
 - Match candidate availability with project timelines  
-- Visualize alignment between job specs and applicant profiles  
+- Visualize alignment between job specs and applicant profiles
+
+---
 
 ### Workforce Planners  
 - Identify hiring trends by region and experience  
 - Assess average experience and certifications among candidates  
-- Optimize future hiring strategies  
+- Optimize future hiring strategies
+
+---
 
 ### Institutional & Academic Researchers  
 - Study employability patterns and gaps  
