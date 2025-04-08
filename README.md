@@ -70,18 +70,18 @@ Key variables include:
 | Current Employment Status   | Categorical  | Employed, unemployed, student                                 |
 
 
-### HR Managers & Recruiters  
+## HR Managers & Recruiters  
 - Rank candidates for faster shortlisting  
 - Match candidate availability with project timelines  
 - Visualize alignment between job specs and applicant profiles
 
 
-### Workforce Planners  
+## Workforce Planners  
 - Identify hiring trends by region and experience  
 - Assess average experience and certifications among candidates  
 - Optimize future hiring strategies
 
-### Institutional & Academic Researchers  
+## Institutional & Academic Researchers  
 - Study employability patterns and gaps  
 - Analyze the relationship between qualifications and job match  
 - Use the dashboard as a teaching or simulation tool  
