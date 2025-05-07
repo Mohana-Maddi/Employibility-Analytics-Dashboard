@@ -179,7 +179,7 @@ Users can interactively filter the dashboard by:
 - **Power BI**  
 - **Microsoft Excel (for data preprocessing)**  
 - **DAX & Power Query**  
-- **Visual Studio Code (for documentation)**  
+ 
 
 
 
