@@ -184,7 +184,7 @@ Users can interactively filter the dashboard by:
 
 
 ## Conclusion  
-This project demonstrates how a data-driven approach can streamline hiring processes and reduce recruitment inefficiencies. Although the focus is on Full Stack Developers in California, the dashboard model is flexible and can be expanded to other tech roles or regions.
+This project demonstrates how a data-driven approach can streamline hiring processes and reduce recruitment inefficiencies. Although the focus is on Full Stack Developers in California Region, the dashboard model is flexible and can be expanded to other tech roles or regions.
 
 ## Contributors
 
