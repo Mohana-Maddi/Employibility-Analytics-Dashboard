@@ -102,8 +102,7 @@ The dashboard uses intuitive visuals such as:
 - **Applications Received:** 32,000  
 - **Time Period Covered:** 3 Years  
 
-![Overview Dashboard](./images/overview.png) <!-- Replace with actual image path or GitHub-hosted link -->
-
+![WhatsApp Image 2025-05-06 at 10 45 57](https://github.com/user-attachments/assets/6ce25c27-c15f-4875-bf31-5243eeed955a)
 
 
 ## Key Insights
@@ -127,7 +126,6 @@ The dashboard uses intuitive visuals such as:
 
 
 
-
 ###  Salary Insights
 
 **Average Salary Expectation vs Present Salary:**
@@ -139,8 +137,7 @@ The dashboard uses intuitive visuals such as:
 - Top Roles: Web Developer, Software Engineer, Backend, Full-Stack, and Frontend Developers  
 - Most common salary range: **< $110K**, with **259 job postings**
 
-![Salary Insights](./images/salary-insights.png) <!-- Replace with actual image path or GitHub-hosted link -->
-
+![WhatsApp Image 2025-05-06 at 10 46 47](https://github.com/user-attachments/assets/9ed877e9-73c0-4195-b668-e6f927f39329)
 
 
 ###  Market Trends
@@ -159,8 +156,7 @@ The dashboard uses intuitive visuals such as:
 - Medium: 40.33%  
 - Low: 17.33%
 
-![Market Trends](./images/market-trends.png) <!-- Replace with actual image path or GitHub-hosted link -->
-
+![WhatsApp Image 2025-05-06 at 10 47 15](https://github.com/user-attachments/assets/5f8da9d2-d2a6-4e86-82c3-f8755caecbaa)
 
 
 ##  Filters Available
