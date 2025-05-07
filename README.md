@@ -192,9 +192,9 @@ This project was developed by a team of Master's students from Saint Louis Unive
 
 - **Deepak Reddy Balannagari**
 - **Mohana Maddi**
-- **Vishal Phani Parapatla**
 - **Sai Kumar Chebolu**
 - **Sindu Madharapu**
+- - **Vishal Phani Parapatla**
 
 
 
