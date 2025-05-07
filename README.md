@@ -194,7 +194,7 @@ This project was developed by a team of Master's students from Saint Louis Unive
 - **Mohana Maddi**
 - **Sai Kumar Chebolu**
 - **Sindu Madharapu**
-- - **Vishal Phani Parapatla**
+- **Vishal Phani Parapatla**
 
 
 
