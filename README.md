@@ -1,5 +1,5 @@
 ## Employibility-Analytics-Dashboard
-A data-driven approach to hiring Full Stack Developers in California
+A data-driven approach to hiring Full Stack Developers in California Region
 
 ## Introduction:
 
