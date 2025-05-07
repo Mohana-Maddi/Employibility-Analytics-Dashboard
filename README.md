@@ -94,6 +94,97 @@ The dashboard uses intuitive visuals such as:
 - Line graphs for job posting trends  
 - Donut charts for skills and certifications  
 - Ranking tables with slicers for deep filtering
+
+## 📌 Overview
+
+- **Total Candidates:** 500  
+- **Total Job Postings:** 300  
+- **Applications Received:** 32,000  
+- **Time Period Covered:** 3 Years  
+
+![Overview Dashboard](./images/overview.png) <!-- Replace with actual image path or GitHub-hosted link -->
+
+---
+
+## 🔍 Key Insights
+
+### 👨‍💼 Candidate Insights
+
+**Experience Level Distribution:**
+
+- Lead: 150  
+- Mid: 135  
+- Senior: 109  
+- Entry: 106  
+
+**Work Preference:**
+
+- On-site: 175 (35%)  
+- Remote: 169 (33.8%)  
+- Hybrid: 156 (31.2%)  
+
+![Candidate Insights](./images/candidate-insights.png) <!-- Replace with actual image path or GitHub-hosted link -->
+
+---
+
+### 💰 Salary Insights
+
+**Average Salary Expectation vs Present Salary:**
+
+- Notable gap of **$50K**, indicating candidate expectations exceed current offers.
+
+**Job Roles and Salary Range:**
+
+- Top Roles: Web Developer, Software Engineer, Backend, Full-Stack, and Frontend Developers  
+- Most common salary range: **< $110K**, with **259 job postings**
+
+![Salary Insights](./images/salary-insights.png) <!-- Replace with actual image path or GitHub-hosted link -->
+
+---
+
+### 🌍 Market Trends
+
+**Top Job Locations:**
+
+- Concentrated in **California**, especially **Los Angeles** and **San Francisco**
+
+**Top Candidate Skills:**
+
+- Flask, Python, Angular, Ruby, Java
+
+**Market Demand:**
+
+- High: 42.33%  
+- Medium: 40.33%  
+- Low: 17.33%
+
+![Market Trends](./images/market-trends.png) <!-- Replace with actual image path or GitHub-hosted link -->
+
+---
+
+## 🎛️ Filters Available
+
+Users can interactively filter the dashboard by:
+
+- Job Role  
+- Experience Level  
+- Education Level  
+- Work Preference  
+- Location  
+- Salary Range  
+- Posting Date  
+- Market Demand  
+
+---
+
+## 📂 Technologies Used
+
+- **Power BI**  
+- **Microsoft Excel (for data preprocessing)**  
+- **DAX & Power Query**  
+- **Visual Studio Code (for documentation)**  
+
+---
   
 
 ## Conclusion  
