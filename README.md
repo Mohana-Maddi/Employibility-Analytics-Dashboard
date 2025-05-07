@@ -106,9 +106,9 @@ The dashboard uses intuitive visuals such as:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
-### 👨‍💼 Candidate Insights
+###  Candidate Insights
 
 **Experience Level Distribution:**
 
@@ -127,7 +127,7 @@ The dashboard uses intuitive visuals such as:
 
 ---
 
-### 💰 Salary Insights
+###  Salary Insights
 
 **Average Salary Expectation vs Present Salary:**
 
@@ -140,9 +140,9 @@ The dashboard uses intuitive visuals such as:
 
 ![Salary Insights](./images/salary-insights.png) <!-- Replace with actual image path or GitHub-hosted link -->
 
----
 
-### 🌍 Market Trends
+
+###  Market Trends
 
 **Top Job Locations:**
 
@@ -160,9 +160,9 @@ The dashboard uses intuitive visuals such as:
 
 ![Market Trends](./images/market-trends.png) <!-- Replace with actual image path or GitHub-hosted link -->
 
----
 
-## 🎛️ Filters Available
+
+##  Filters Available
 
 Users can interactively filter the dashboard by:
 
@@ -175,16 +175,16 @@ Users can interactively filter the dashboard by:
 - Posting Date  
 - Market Demand  
 
----
 
-## 📂 Technologies Used
+
+## Technologies Used
 
 - **Power BI**  
 - **Microsoft Excel (for data preprocessing)**  
 - **DAX & Power Query**  
 - **Visual Studio Code (for documentation)**  
 
----
+
   
 
 ## Conclusion  
