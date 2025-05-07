@@ -95,7 +95,7 @@ The dashboard uses intuitive visuals such as:
 - Donut charts for skills and certifications  
 - Ranking tables with slicers for deep filtering
 
-## 📌 Overview
+##  Overview
 
 - **Total Candidates:** 500  
 - **Total Job Postings:** 300  
@@ -104,7 +104,7 @@ The dashboard uses intuitive visuals such as:
 
 ![Overview Dashboard](./images/overview.png) <!-- Replace with actual image path or GitHub-hosted link -->
 
----
+
 
 ## Key Insights
 
@@ -125,7 +125,7 @@ The dashboard uses intuitive visuals such as:
 
 ![Candidate Insights](./images/candidate-insights.png) <!-- Replace with actual image path or GitHub-hosted link -->
 
----
+
 
 ###  Salary Insights
 
