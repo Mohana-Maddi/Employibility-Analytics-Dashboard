@@ -123,7 +123,8 @@ The dashboard uses intuitive visuals such as:
 - Remote: 169 (33.8%)  
 - Hybrid: 156 (31.2%)  
 
-![Candidate Insights](./images/candidate-insights.png) <!-- Replace with actual image path or GitHub-hosted link -->
+![WhatsApp Image 2025-05-06 at 10 46 20](https://github.com/user-attachments/assets/fdf2c613-cb60-45ea-af1d-bd1de79512ef)
+
 
 
 
