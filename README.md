@@ -182,9 +182,19 @@ Users can interactively filter the dashboard by:
 - **Visual Studio Code (for documentation)**  
 
 
-  
 
 ## Conclusion  
 This project demonstrates how a data-driven approach can streamline hiring processes and reduce recruitment inefficiencies. Although the focus is on Full Stack Developers in California, the dashboard model is flexible and can be expanded to other tech roles or regions.
+
+## Contributors
+
+This project was developed by a team of Master's students from Saint Louis University:
+
+- **Deepak Reddy Balannagari**
+- - **Mohana Maddi**
+- **Vishal Phani Parapatla**
+- **Sai Kumar Chebolu**
+- **Sindu Madharapu**
+
 
 
